@@ -6,12 +6,9 @@
   "scripts": {
     "keywords": ["game"],
     "author": "Satriks",
-    "license": "ISC",
-
+    "license": "ISC"
   },
-
   "dependencies": {
     "defender-game": "https://github.com/satriks/ajs_lesson1_task1/tree/main"
   }
-  
 }
