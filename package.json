@@ -7,7 +7,11 @@
     "keywords": ["game"],
     "author": "Satriks",
     "license": "ISC",
-    "git repository": "https://github.com/satriks/ajs_lesson1_task1/tree/main"
 
+  },
+
+  "dependencies": {
+    "defender-game": "https://github.com/satriks/ajs_lesson1_task1/tree/main"
   }
+  
 }
