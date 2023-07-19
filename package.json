@@ -4,11 +4,11 @@
   "description": "Browser based game",
   "main": "index.js",
   "scripts": {
-    "keywords": ["game"],
+    "keywords": [ "game" ],
     "author": "Satriks",
-    "license": "ISC"
+    "license": "ISC" 
   },
   "dependencies": {
-    "defender-game": "https://github.com/satriks/ajs_lesson1_task1/tree/main"
+    "ajs_lesson1_task1": "https://github.com/satriks/ajs_lesson1_task1"
   }
 }
